@@ -30,6 +30,6 @@ A small translator app that demonstrates API integration and state management in
 
 - **Folder:** `translator-app`  
 - **Tech Stack:** React, JavaScript, TailwindCSS, API Integration  
-- **Live Preview:** [translator-n3w04t9nv-muntadineshkumar-4602s-projects.vercel.app](#)  
+- **Live Preview:** translator-n3w04t9nv-muntadineshkumar-4602s-projects.vercel.app 
 
 ---
