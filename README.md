@@ -12,7 +12,7 @@ A simple React app that generates random strings based on user preferences (leng
 
 - **Folder:** `rand-str`  
 - **Tech Stack:** React, JavaScript, TailwindCSS  
-- **Live Preview:** [codex-front](https://codex-front-9pgpn4abb-muntadineshkumar-4602s-projects.vercel.app)  
+- **Live Preview:** [rand-str](https://codex-front-9pgpn4abb-muntadineshkumar-4602s-projects.vercel.app)  
 
 ---
 
